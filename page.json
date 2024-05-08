@@ -1,12 +1,12 @@
 {
   "display_name": "arch",
-  "description": "deszkripció teszt uupdate edit 4 :(",
-  "socials": [
+  "bio": "deszkripció teszt uupdate edit 4 :(",
+  "platforms": [
       "https://instagram.com/therock",
       "https://xjk.gay",
 	"fasz"
   ],
-  "showcasedRepoNames": [
+  "showcased_repos": [
 	  "erettsegi-browser",
 	  "archmancs.github.io"
    ]

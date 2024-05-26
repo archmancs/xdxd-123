@@ -1,6 +1,20 @@
 {
-  "display_name": "",
-  "bio": "",
-  "platforms": [],
-   "show_uid": false
+  "display_name": "arch",
+  "bio": "deszkripcio test beta alpha sigma",
+  "platforms": [
+    "https://instagram.com/therock",
+    "https://github.com/archmancs",
+    "https://facebook.com/fasz",
+    "https://tiktok.com/@orbanviktorofficial",
+    "https://albert.lol",
+    "anyad",
+    "https://t.me/thesatoko"
+  ],
+  "showcased_repos": [
+    "erettsegi-browser",
+    "archmancs.github.io",
+    "bio",
+    "asodka"
+  ],
+  "show_uid": false
 }

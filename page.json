@@ -14,7 +14,7 @@
     "erettsegi-browser",
     "archmancs.github.io"
   ],
-  "theme": "light",
-  "background": "green",
+  "theme": "dark",
+  "background_color": "green",
   "show_views": false
 }

@@ -16,5 +16,6 @@
   ],
   "theme": "dark",
   "background_color": "#f76a9e",
-  "show_views": false
+  "show_views": false,
+   "spotify_ws": "wss://spotif.csehviktor.me"
 }

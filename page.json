@@ -8,14 +8,17 @@
     "https://tiktok.com/@orbanviktorofficial",
     "https://albert.lol",
     "anyad",
-    "https://t.me/thesatoko"
+    "https://t.me/thesatoko",
+    "https://"
   ],
   "showcased_repos": [
     "erettsegi-browser",
-    "archmancs.github.io"
+    "archmancs.github.io",
+    "fasz"
   ],
+  "anyad": "cigany",
   "theme": "dark",
   "background_color": "#f76a9e",
   "show_views": false,
-   "spotify_ws": "wss://spotif.csehviktor.me"
+  "spotify_ws": "wss://spotif.csehviktor.me"
 }
